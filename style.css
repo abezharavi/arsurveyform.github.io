@@ -1,0 +1,64 @@
+main {
+  text-align:center;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+  background: #FFFFE0;
+  font-size: 20px;
+}
+
+header {
+  text-align:center;
+}
+
+header h1 h2 {
+  display:inline-block;
+}
+
+#homepage {
+  float:right;
+  text-align:right;
+}
+
+h3 {
+  margin:0px;
+  text-transform:uppercase;
+}
+
+main {
+  margin: 0px 0px 0px 0px;
+
+}
+.responses {
+  margin: 0px;
+  height: 150px;
+  width: 400px;
+}
+
+input, textarea, select {
+  font-family: 'Poppins', sans-serif;
+  font-size:20px;
+}
+label {
+  padding-left:0px;
+  padding-top: 2px;
+  padding-bottom:2px;
+}
+
+#survey {
+  text-align: center;
+  list-style-position: inside;
+}
+
+ol  {
+  padding-left:17px;
+}
+ol select {
+  height: 35px;
+  width: 300px;
+}
+footer {
+  text-align:center;
+  padding:1px;
+}
